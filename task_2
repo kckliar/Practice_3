@@ -1,0 +1,3 @@
+Cel=float(input('Введите градусы Цельсия: '))
+Faren=(Cel*9)/5+32
+print(Faren)
